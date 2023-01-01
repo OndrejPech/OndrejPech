@@ -1,16 +1,48 @@
-### Hi there 👋
+### Hi there, 👋
 
-<!--
-**OndrejPech/OndrejPech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a programming enthusiast, video production lover and fan of sport analysis. I am curently looking for an entry-level job as a back-end developer in a company where I can grow under the guidance of more experienced colleagues. You can see my current CV in <a href src=”https://github.com/OndrejPech/CV/blob/main/pech_ondrej_cz.pdf”>Czech</a> or <a href src=”https://github.com/OndrejPech/CV/blob/main/pech_ondrej_enf.pdf”>English</a> language.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Own Projects
+#### Footac (2022)
+Web application with video database of football actions.<br>
+Tech Stack: Django, PostgresSQL, HTML, Bootstrap, Heroku<br>
+https://github.com/OndrejPech/Footac
+
+#### Footac gamepad (2022)
+Program, which uses Xbox Controller to tag and save actions from football games.<br>
+Tech Stack: Python, Pygame<br>
+https://github.com/OndrejPech/footac-gamepad
+
+#### Czech football scrapper (2021)
+Script used to scrape data about Czech amateurs football leagues.<br>
+Tech Stack: Python, BeautifulSoup<br>
+https://github.com/OndrejPech/czech-football-scraper
+
+### Learning journey
+I'm self - taught programmer since 2020. <br>
+My first teacher was <a href src=”https://www.dr-chuck.com”> Dr Chuck </a> and his free courses <a href src=”https://www.py4e.com”> Python for Everybody </a>, <a href src=”https://www.pg4e.com”> Postgres for Everybody </a> and <a href src=”https://www.dj4e.com”> Django for Everybody </a> , which helped me understand basic concepts and best practices of programming, database and web development. 
+I did follow some paid tutorials on <a href src=”https://engeto.cz”>Engeto</a> and <a href src=”https://codemy.com”>Codemy</a> and plentiful free sources on the internet. <br>
+I studied for more than a year Jet Brains Academy - Python Track . You can see my JBA projects and certificate on this <a href src=”https://github.com/OndrejPech/Jet-Brains-Academy---Python”>Github repo</a>.
+My current learning plan include improving web-dev skills(Django, Javascript, API) and learn Docker. 
+
+
+
+
+I have at least basic experience with following technologies.
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" alt="JetBrains" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="Pycharm" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="40" height="40"/>&nbsp;
+</div>
