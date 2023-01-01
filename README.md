@@ -1,9 +1,9 @@
-### Hi there, 👋
+### About me :information_desk_person:
 
 I am a programming enthusiast, video production lover and fan of sport analysis. I am curently looking for an entry-level job as a back-end developer in a company where I can grow under the guidance of more experienced colleagues. You can see my current CV in [Czech](https://github.com/OndrejPech/CV/blob/main/pech_ondrej_cz.pdf) or [English](https://github.com/OndrejPech/CV/blob/main/pech_ondrej%20_eng.pdf) language.
 
 
-### Own Projects
+### My Projects  :computer:
 #### Footac (2022)
 Web application with video database of football actions.<br>
 Tech Stack: Django, PostgresSQL, HTML, Bootstrap, Heroku<br>
@@ -19,7 +19,7 @@ Script used to scrape data about Czech amateurs football leagues.<br>
 Tech Stack: Python, BeautifulSoup<br>
 https://github.com/OndrejPech/czech-football-scraper
 
-### Learning journey
+### Learning journey. :mortar_board:
 I'm self - taught programmer since 2020. <br>
 My first teacher was [Dr Charles R Severance](https://www.dr-chuck.com) and his free courses [Python for Everybody](https://www.py4e.com), [Postgres for Everybody](https://www.pg4e.com) and [Django for Everybody](https://www.dj4e.com), which helped me understand basic concepts and best practices of programming, database and web development. 
 I did follow some paid tutorials on [Engeto](https://engeto.cz) or [Codemy](https://codemy.com) and plentiful free sources on the internet. <br>
