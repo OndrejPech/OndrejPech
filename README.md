@@ -1,6 +1,6 @@
 ### Hi there, 👋
 
-I am a programming enthusiast, video production lover and fan of sport analysis. I am curently looking for an entry-level job as a back-end developer in a company where I can grow under the guidance of more experienced colleagues. You can see my current CV in [Czech](https://github.com/OndrejPech/CV/blob/main/pech_ondrej_cz.pdf) or [English]([https://github.com/OndrejPech/CV/blob/main/pech_ondrej_en](https://github.com/OndrejPech/CV/blob/main/pech_ondrej%20_eng.pdf) language.
+I am a programming enthusiast, video production lover and fan of sport analysis. I am curently looking for an entry-level job as a back-end developer in a company where I can grow under the guidance of more experienced colleagues. You can see my current CV in [Czech](https://github.com/OndrejPech/CV/blob/main/pech_ondrej_cz.pdf) or [English](https://github.com/OndrejPech/CV/blob/main/pech_ondrej%20_eng.pdf) language.
 
 
 ### Own Projects
