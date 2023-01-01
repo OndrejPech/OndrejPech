@@ -1,6 +1,6 @@
 ### Hi there, 👋
 
-I am a programming enthusiast, video production lover and fan of sport analysis. I am curently looking for an entry-level job as a back-end developer in a company where I can grow under the guidance of more experienced colleagues. You can see my current CV in <a href src=”https://github.com/OndrejPech/CV/blob/main/pech_ondrej_cz.pdf”>Czech</a> or <a href src=”https://github.com/OndrejPech/CV/blob/main/pech_ondrej_enf.pdf”>English</a> language.
+I am a programming enthusiast, video production lover and fan of sport analysis. I am curently looking for an entry-level job as a back-end developer in a company where I can grow under the guidance of more experienced colleagues. You can see my current CV in [Czech](https://github.com/OndrejPech/CV/blob/main/pech_ondrej_cz.pdf) or [English]([https://github.com/OndrejPech/CV/blob/main/pech_ondrej_en](https://github.com/OndrejPech/CV/blob/main/pech_ondrej%20_eng.pdf) language.
 
 
 ### Own Projects
@@ -21,10 +21,10 @@ https://github.com/OndrejPech/czech-football-scraper
 
 ### Learning journey
 I'm self - taught programmer since 2020. <br>
-My first teacher was <a href src=”https://www.dr-chuck.com”> Dr Chuck </a> and his free courses <a href src=”https://www.py4e.com”> Python for Everybody </a>, <a href src=”https://www.pg4e.com”> Postgres for Everybody </a> and <a href src=”https://www.dj4e.com”> Django for Everybody </a> , which helped me understand basic concepts and best practices of programming, database and web development. 
-I did follow some paid tutorials on <a href src=”https://engeto.cz”>Engeto</a> and <a href src=”https://codemy.com”>Codemy</a> and plentiful free sources on the internet. <br>
-I studied for more than a year Jet Brains Academy - Python Track . You can see my JBA projects and certificate on this <a href src=”https://github.com/OndrejPech/Jet-Brains-Academy---Python”>Github repo</a>.
-My current learning plan include improving web-dev skills(Django, Javascript, API) and learn Docker. 
+My first teacher was [Dr Charles R Severance](https://www.dr-chuck.com) and his free courses [Python for Everybody](https://www.py4e.com), [Postgres for Everybody](https://www.pg4e.com) and [Django for Everybody](https://www.dj4e.com), which helped me understand basic concepts and best practices of programming, database and web development. 
+I did follow some paid tutorials on [Engeto](https://engeto.cz) or [Codemy](https://codemy.com) and plentiful free sources on the internet. <br>
+I studied for more than a year [Jet Brains Academy](https://www.jetbrains.com/academy/) - Python Track . You can see my JBA projects and certificate on this [Github repo](https://github.com/OndrejPech/Jet-Brains-Academy---Python) <br>
+My current learning plan include improving web-dev skills (Django, Javascript, API) and learn Docker. 
 
 
 
